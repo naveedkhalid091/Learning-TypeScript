@@ -13,4 +13,5 @@ let array2:Array<number> = [1, 2, 3];  // Alternate method.
 let array3: number[] = [];
 array3.push(1234);//dynamically adding
 
+console.log(array3);
 

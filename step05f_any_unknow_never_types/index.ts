@@ -29,7 +29,7 @@ y=()=>{ }; // unknown type Accepting function
 
 let value:unknown;
 
-/* use cased of unkown type. 
+/* use cases of unkown type. 
 It is used when you don't know the data type, it can be string, number
 etc, then we use unkown data type.
 */

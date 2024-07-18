@@ -1,4 +1,4 @@
-enum Color {Red, Green, Blue};//starts with 0 index
+enum Color {Red, Green, Blue}; //starts with 0 index
 let c: Color = Color.Green; // Output: 1
 console.log(c);
 
