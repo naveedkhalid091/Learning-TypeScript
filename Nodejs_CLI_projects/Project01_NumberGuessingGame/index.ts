@@ -8,6 +8,8 @@ const randomNumber=Math.floor(Math.random()*6+1);
 
 // 2) Allowing User for number Input. 
 
+console.log("Welcome to a Number Guessing Game");
+
 const answer=await inquirer.prompt([
     {
         name:"UserGuessedNumber",
