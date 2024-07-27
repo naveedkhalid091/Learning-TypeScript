@@ -35,5 +35,3 @@ console.log(rivers.name1);
 console.log(countries.name1);
 console.log(languages.lang2);
 console.log(cities.city1);
-
-
