@@ -8,7 +8,6 @@ let answers = await inquirer.prompt({
     message: "Enter your Age:"
 });
 
-
 let a=10;
 let b=20;
 
