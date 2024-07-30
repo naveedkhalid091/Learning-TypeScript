@@ -94,3 +94,6 @@ if(car2.price>=5000){
       }else{
           console.log(`The car condition is old then prediction is`,false)
       }
+
+
+
