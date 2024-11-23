@@ -112,3 +112,5 @@ executeTasks();
 Async Function always returns a compulsory promise.
 
 await keyword pauses the execution of its sorrounding async function untill the promise is settled. await will always be used within the async function. 
+
+
